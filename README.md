@@ -23,4 +23,4 @@ make
 - Mac OS X 10.11.5
 - libusb-1.0.20
 - libpafe-0.0.8
-- Sony PaSoRi RC-S330
+- Sony [PaSoRi RC-S330](http://www.amazon.co.jp/gp/product/B001MVPD8U/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B001MVPD8U&linkCode=as2&tag=selfcoreorg-22)
