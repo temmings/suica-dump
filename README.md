@@ -3,10 +3,10 @@
 Suicaの履歴をダンプします。
 
 ダンプした値の内訳(の一部)は
-[FeliCa LibraryのWiki][https://osdn.jp/projects/felicalib/wiki/suica]
+[FeliCa LibraryのWiki](https://osdn.jp/projects/felicalib/wiki/suica)
 に情報があります。
 
-[libpafe][http://homepage3.nifty.com/slokar/pasori/libpafe.html] を利用しています。
+[libpafe](http://homepage3.nifty.com/slokar/pasori/libpafe.html) を利用しています。
 
 ## ビルドする
 
