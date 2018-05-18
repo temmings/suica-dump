@@ -6,7 +6,7 @@ Suicaの履歴をダンプします。
 [FeliCa LibraryのWiki](https://osdn.jp/projects/felicalib/wiki/suica)
 に情報があります。
 
-[libpafe](http://homepage3.nifty.com/slokar/pasori/libpafe.html) を利用しています。
+[libpafe](https://github.com/rfujita/libpafe) を利用しています。
 
 ## ビルドする
 
